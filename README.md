@@ -26,6 +26,6 @@ Here are some projects I'm proud of:
 ## Connect with Me 📫
 
 - ✨ Frontend Mentor: [Hannah Alcantara](https://www.frontendmentor.io/profile/hannah-alcantara)
-- ⚙️ LinkedIn: [Hannah Alcantara](www.linkedin.com/in/hannah-alcantara)
+- ⚙️ LinkedIn: [Hannah Alcantara](https://www.linkedin.com/in/hannah-alcantara)
 - 🌐 Portfolio: [Hannah Alcantara](https://hannah-alcantara.github.io/personal-portfolio/)
 <!-- - 📫 Gmail: hannah.alcantara14@gmail.com-->
