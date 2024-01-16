@@ -17,7 +17,7 @@ I'm Hannah, a dedicated and enthusiastic front-end developer with a passion for 
 
 Here are some projects I'm proud of:
 
-1. [Sunnyside Agency Landing Page](https://oceangroupca.com/) - responsive landing page using SASS/SCSS, CSS Grid & Javascript.
+1. [Sunnyside Agency Landing Page](https://github.com/hannah-alcantara/fm-sunnyside-agency-landing-page) - responsive landing page using SASS/SCSS, CSS Grid & Javascript.
 <!--2. [Notification Page](link-to-project-2) - Brief description.
 3. [Project Name 3](link-to-project-3) - Brief description.
 -->
