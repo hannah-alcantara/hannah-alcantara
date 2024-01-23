@@ -14,11 +14,12 @@ I'm Hannah, a dedicated and enthusiastic front-end developer with a passion for 
 - 🛠️ Familiar with SASS, Vue.js
 
 ## Projects 🚀
-
 Here are some projects I'm proud of:
 
+### Front-end Mentor Mock-ups
 1. [Sunnyside Agency Landing Page](https://github.com/hannah-alcantara/fm-sunnyside-agency-landing-page) - responsive landing page using SASS/SCSS, CSS Grid & Javascript.
-<!--2. [Notification Page](link-to-project-2) - Brief description.
+2. [Notification Page](https://github.com/hannah-alcantara/fm-notification-page) - notification page using React.
+<!--
 3. [Project Name 3](link-to-project-3) - Brief description.
 -->
 
