@@ -1,4 +1,4 @@
-# Hi there, I'm Hannah! 👋
+# Hi there, I'm Hannah! ✧
 
 ## Front-End Developer | Creative Problem Solver | Lifelong Learner
 
@@ -39,10 +39,10 @@ React Hook Form • Zod Validation • ESLint
 #### 🎬 [Cinemate](https://github.com/hannah-alcantara/cinemate)
 **Modern Movie Discovery App | Next.js + React + TypeScript**
 
-A full-stack movie discovery platform with user authentication, favorites tracking, and a sleek modern interface featuring dark/light themes.
+A full-stack movie discovery platform with user authentication, favorites tracking, and a sleek modern interface.
 
 **🔧 Tech Stack:** Next.js, React, TypeScript, Supabase, Tailwind CSS, Radix UI, React Hook Form, Zod  
-**✨ Features:** Movie search & discovery, user authentication, favorites system, dark/light theme, responsive design, movie carousel  
+**✨ Features:** Movie search & discovery, user authentication, favorites system, responsive design, movie carousel  
 **🎓 What I Learned:** App Router architecture, TypeScript integration, authentication flows, modern React patterns, form validation
 
 ---
@@ -60,26 +60,26 @@ A comprehensive skincare product management system with expiration tracking, adv
 #### 💄 [Hair Dye Diary](https://github.com/hannah-alcantara/hair-dye-diary)
 **Interactive Digital Journal | Next.js + React**
 
-A unique digital logbook with realistic 3D page-flip animations for tracking hair color formulas, processing times, and visual progress with photo documentation.
+A digital logbook with realistic 3D page-flip animations for tracking hair color formulas, processing times, and visual progress with photo documentation.
 
-**🔧 Tech Stack:** Next.js, React, Tailwind CSS, Radix UI, Turbopack  
+**🔧 Tech Stack:** Next.js, React, Tailwind CSS, Radix UI
 **✨ Features:** 3D notebook interface, formula tracking, photo uploads, local storage, mobile-responsive design, interactive animations  
 **🎓 What I Learned:** CSS 3D animations, local storage management, file handling, creative UI design, mobile-first responsive design
 
 ---
 
 #### 📚 Book X
-**Book Exchange App | React.js + Node.js**
+**Mobile Book Exchange App | React Native + Expo**
 
-Facilitates book exchanges between users with real-time messaging and location features.
+Mobile application facilitating book exchanges between users with real-time messaging and location features.
 
-**🔧 Tech Stack:** React.js, Node.js  
-**✨ Features:** User profiles, book listing, exchange system  
-**🎓 What I Learned:** Mobile-first development, backend integration, user experience design
+**🔧 Tech Stack:** React Native, Expo, Node.js  
+**✨ Features:** User profiles, book listing, exchange system, real-time messaging  
+**🎓 What I Learned:** Mobile app development, Expo framework, cross-platform development, mobile UX patterns
 
 ### 🌱 Frontend Mentor Challenges
 
-I regularly solve Frontend Mentor challenges to sharpen my skills and practice new techniques:
+I solve Frontend Mentor challenges to sharpen my skills and practice new techniques:
 
 - **[Sunnyside Agency Landing Page](https://github.com/hannah-alcantara/fm-sunnyside-agency-landing-page)** - HTML, SASS, JavaScript
 - **[Notification Page](https://github.com/hannah-alcantara/fm-notification-page)** - React, CSS
@@ -87,31 +87,12 @@ I regularly solve Frontend Mentor challenges to sharpen my skills and practice n
 - **[Results Summary Component](https://github.com/hannah-alcantara/fm-results-summary-component)** - HTML, SCSS
 - **[Product Preview Card](https://github.com/hannah-alcantara/fm-product-preview-card-component)** - HTML, SCSS
 
-### 🎨 My Journey
-
-**From Design to Development**  
-My background in graphic design gives me a unique perspective on user experience and visual aesthetics. I understand the importance of pixel-perfect implementations and creating interfaces that are both beautiful and functional.
-
-**Continuous Learning**  
-I'm currently deepening my knowledge in:
-- Advanced TypeScript patterns and best practices
-- Backend development with Node.js and databases
-- Modern React patterns and Next.js features
-- AI-assisted development workflows with Claude Code
-
-### 📈 GitHub Stats
-
-![Hannah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hannah-alcantara&show_icons=true&theme=radical)
-
 ### 🤝 Let's Connect!
 
 I'm always excited to collaborate on projects, discuss web development, or chat about the latest technologies!
 
-**💼 Professional**
-- [LinkedIn](https://www.linkedin.com/in/hannah-alcantara)
-- [Frontend Mentor Profile](https://www.frontendmentor.io/profile/hannah-alcantara)
-
 **📬 Contact**
+- [LinkedIn](https://www.linkedin.com/in/hannah-alcantara)
 - Email: hannah.alcantara14@gmail.com
 
 ---
